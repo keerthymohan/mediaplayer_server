@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "caption": "Hey Minnale",
+      "vedioImg": "https://static.toiimg.com/photo/114002853.cms",
+      "vedioUrl": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "id": 4
+    },
+    {
+      "caption": "Tauba Tauba",
+      "vedioImg": "https://upload.wikimedia.org/wikipedia/en/5/53/Tauba_Tauba_song_cover.jpg",
+      "vedioUrl": "https://www.youtube.com/embed/LK7-_dgAVQE",
+      "id": 6
+    },
+    {
+      "caption": "Neela Nilave",
+      "vedioImg": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/bc/d4/70bcd4e7-d5d4-0fe6-7c88-24a8f7e14c66/197189826290.jpg/1200x1200bf-60.jpg",
+      "vedioUrl": "https://www.youtube.com/embed/3r_ZNfAl7yY",
+      "id": 7
+    }
+  ],
+  "history": [
+    {
+      "caption": "Tauba Tauba",
+      "url": "https://www.youtube.com/embed/LK7-_dgAVQE",
+      "timeStamp": "25/11/2024, 09:03:27",
+      "id": 1
+    },
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/3r_ZNfAl7yY",
+      "timeStamp": "25/11/2024, 16:48:25",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "Category": "malayalam songs",
+      "allVideos": [
+        {
+          "caption": "Hey Minnale",
+          "vedioImg": "https://static.toiimg.com/photo/114002853.cms",
+          "vedioUrl": "https://www.youtube.com/embed/AY3Yea6hBbI",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "Category": "Hindi Songs",
+      "allVideos": [],
+      "id": 2
+    }
+  ]
+}
